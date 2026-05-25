@@ -1,0 +1,7 @@
+{
+  "name": "FreshBite Café",
+  "description": "A modern, professional business website for FreshBite Café featuring a full menu, gallery, and contact system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
